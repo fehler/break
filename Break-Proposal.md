@@ -53,11 +53,21 @@ This is optional, pre-conference. The unconference is free and, following the su
 At the very least participants should aim to attend the Wednesday evening talk, it’s intended to prepare them for Thursday (that’s why it’s called ‘A Rather Large Tutorial’). The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
 
-####Unconference
+####Semiunconferencemeetup™
+
+Black Box. Chris book this.
 
 Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once again run ‘An Afternoon with Shopify’ in Belfast. This was a big success when we ran it at Build 2013, and I’d like to build on that success and make it a core part of Break.
 
 Our speakers last year were a mix of local (myself, and [Team Brewbot](http://www.brewbot.io)) and guests ([Keir Whitaker](http://keirwhitaker.com), and Cameron Koczon and Tyler Mincey of [Fictive Kin](http://fictivekin.com)). I envisage a similar line up of around four speakers, local and global. In short, an enjoyable and informative afternoon of pre-conference education and entertainment.
+
+Possible Speakers:
+
+Compere: Keir Whitaker
+
++ Verne Ho, Director of Design at Shopify
++ Ryan Rumsey, Nestlé
++ Elliot Jay Stocks, Typekit
 
 
 ####Open Studio
@@ -95,9 +105,13 @@ In my mind speakers aren’t ‘web designers’ or ‘graphic designers’ or �
 Confirmed speakers:
 
 + Matt Webb ([BERG](http://bergcloud.com), [Little Printer](http://bergcloud.com/littleprinter/))
++ Sarah Richards ([Head of Content Design, GDS](https://gds.blog.gov.uk), [GOV.UK](https://www.gov.uk))
 + Adrian Shaughnessy ([Unit Editions](http://www.uniteditions.com), [Design Observer](http://designobserver.com))
++ Nicolas Roope ([Hulger](http://www.hulger.com), [Plumen](http://plumen.com))
 + Dan Rubin ([Webgraph](http://danrubin.is), [MOO](http://moo.com))
 + Hamish Muir ([8vo](http://www.lars-mueller-publishers.com/en/8vo), [Outcast Editions](http://www.outcasteditions.com))
++ Jane ni Dhulchaointigh (Sugru)
+
 
 It’s important to me that the speakers aren’t [all men](https://www.youtube.com/watch?v=9Wl_uQOABxg&feature=kp) and looking at the list above, I’m well aware of this.
 
@@ -105,14 +119,18 @@ It’s important to me that the speakers aren’t [all men](https://www.youtube.
 
 Possible speakers: 
 
-+ Eva-Lotta Lamm (Google)
-+ Jane ni Dhulchaointigh (Sugru)
-+ Sarah Richards (Head of Content Design, GDS)
 + Edward Barber and Jay Osgerby (Barber Osgerby)
 + Brendan Dawes
 + David Hieatt (Hiut Denim)
 + Daniel Eatock
 + Ted Noten
+
+Confirmed 2015 Speakers:
+
++ Eva-Lotta Lamm (Google; Confirmed, 2015)
++ Kate Keifer Lee (Voice and Tone; Confirmed, 2015)
++ Aarron Walter (MailChimp; Confirmed, 2015)
++ Aral Balkan (Privacy, etc.; Confirmed, 2015)
 
 I’m keen to open out the list of speakers so that they’re challenging and interesting. I think they should be beyond the silos of specialism. They should ask participants questions and leave them seeking answers. I envisage a mix of speakers from across the world, all should, however, question and probe the edges of design.
 

@@ -59,9 +59,9 @@ Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once a
 
 In short, we'll enjoy an informative afternoon of pre-conference education and entertainment, compered by Shopify's Keir Whitaker. We've secured a fantastic lineup of speakers to share their experience with attendees:
 
-+ Elliot Jay Stocks (Creative Director, Typekit)
-+ Verne Ho (Director of Design, Shopify)
-+ Ryan Rumsey (Experience Design, Nestle)
++ Elliot Jay Stocks (Creative Director, [Typekit](https://typekit.com))
++ Verne Ho (Director of Design, [Shopify](http://www.shopify.com))
++ Ryan Rumsey (Experience Design, [Nestlé](http://www.nestleinstitutehealthsciences.com))
 
 
 ####Open Studio

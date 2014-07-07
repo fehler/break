@@ -1,9 +1,10 @@
 Break
 =====
 
-##A Conference That Questions the Edges of Design; 12-14 November, 2014
+##A Conference That Questions the Edges of Design
+###12-14 November, 2014
 
-Feedback? Christopher Murphy · [@fehler](https://twitter.com/fehler)
+<small>Christopher Murphy · [@fehler](https://twitter.com/fehler)</small>
 
 What is design and how is it changing? How are designers evolving as we move away from a world of design specialism that has, until very recently, been so prevalent? Break is about breaking down boundaries, removing the artificial barriers that have somehow been erected to encircle the various ‘specialisms’ of design.
 

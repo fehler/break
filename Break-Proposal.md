@@ -1,12 +1,12 @@
 Break
 =====
 
-##A Conference That Questions the Edges of Design
-###12-14 November, 2014
+###A Conference That Questions the Edges of Design
+####12-14 November, 2014
 
 <small>Christopher Murphy · [@fehler](https://twitter.com/fehler)</small>
 
-What is design and how is it changing? How are designers evolving as we move away from a world of design specialism that has, until very recently, been so prevalent? Break is about breaking down boundaries, removing the artificial barriers that have somehow been erected to encircle the various ‘specialisms’ of design.
+What is design and how is it changing? How are designers evolving as we move away from a world of design specialism that has, until very recently, been so prevalent? [Break](http://breakconf.org “Break: A Conference That Questions the Edges of Design”) is about breaking down boundaries, removing the artificial barriers that have somehow been erected to encircle the various ‘specialisms’ of design.
 
 It explores how what we do as designers is changing to reflect an increasingly fluid and multidisciplinary form of making. Break is intended to challenge and to inspire. It’s designed to encourage you to look beyond your boundaries, to see further. Join us for an affordable day – with associated fringe events – that will, I hope, leave you feeling ready to conquer the world.
 
@@ -15,9 +15,9 @@ It explores how what we do as designers is changing to reflect an increasingly f
 Ticket Price
 ------------
 
-Though I very much enjoy week long festivals like [Build](http://buildconf.com) and [Brooklyn Beta](https://brooklynbeta.org/) (and I’m happy to have been to each and every one of these), not everyone can afford to take a week off work. Doing a festival properly also puts it beyond many’s reach and I’d like to create something that freelancers and students can attend without breaking the bank.
+Though I very much enjoy week long festivals like [Build](http://buildconf.com) and [Brooklyn Beta](https://brooklynbeta.org/) (and I’m happy to have been to each and every one of these), not everyone can afford to take a week off work. Doing a festival properly, with all it entails, often puts it beyond many’s reach and I’d like to create something that freelancers and students can attend without breaking the bank.
 
-With this in mind, I’m focusing around a central, challenging conference day, with an optional unconference the preceding day. This keeps the costs down, ensuring the event is affordable. I’d also like to price student tickets affordably. As an educator, I think it’s important to put professionals and students together, I’d like to support that.
+With this in mind, I’m focusing around a core conference day, with optional unconference activities the preceding day. This keeps the costs down, ensuring the event is affordable. I’d also like to price student tickets affordably. As an educator, I think it’s important to put professionals and students together, I’d like to support that.
 
 My goal is to pitch tickets for professionals at £120 (~120 tickets) with student tickets at £60 (~120 tickets). I’m not running this to make a profit. The bottom line, for me, is about community building and helping to keep Belfast on the map internationally, as – I believe – it rightly deserves to be.
 
@@ -28,9 +28,7 @@ Venue
 
 Built in 1905 as the headquarters of the Presbyterian Church in Ireland, the [Assembly Buildings](http://www.assemblybuildings.co.uk) is one of the most impressive buildings in Belfast’s city centre.
 
-It was recently restored at a cost of £8 million. I think it’s a beautiful space, with wonderful stained glass and gargoyles. It can accommodate ~1,000 people, however, I’m planning to limit numbers to ~400 to keep the feeling intimate.
-
-It has a wonderful church organ, which has been lovingly restored. The space has a real character, which is why I chose it. It’s hard to describe. The atmosphere, however, is warm and inviting.
+It was recently restored at a cost of £8 million. I think it’s a beautiful space, with wonderful stained glass and gargoyles. It can accommodate ~1,000 people, however, I’m planning to limit numbers to ~400 to keep the feeling intimate. It has a wonderful church organ, which has been lovingly restored. The space has a real character, which is why I chose it. It’s hard to describe. The atmosphere, however, is warm and inviting.
 
 
 
@@ -39,8 +37,8 @@ Schedule
 
 + Wednesday
   + An Afternoon With Shopify
-  + Open Studio
   + A Rather Large Tutorial
+  + Typecast Open House
   + Pre-Party
 + Thursday
   + Conference
@@ -51,46 +49,42 @@ Schedule
 
 ###Wednesday
 
-This is optional, pre-conference. An Afternoon With Shopify is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Open Studio events are studio open days, highlighting the work being done by some of Belfast’s internationally respected startups.
+This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will be followed by an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
-At the very least participants should aim to attend the Wednesday evening talk, it’s intended to prepare them for Thursday (that’s why it’s called ‘A Rather Large Tutorial’). The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
+Wednesday evening will consist of an open house, courtesy of the team at Typecast, followed by an informal pre-party.
 
 
-####An Afternoon With Shopify
+####An Afternoon With Shopify (13.00-17.00)
 
-Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once again run ‘An Afternoon with Shopify’ in Belfast. This was a big success when we ran it at Build 2013, and I’d like to build on that success and make it a core part of Break. This year we'll be running it in The Black Box, one of the principal arts and entertainment venues in Belfast.
+Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once again run ‘An Afternoon with Shopify’ in Belfast. This was a big success when we ran it at Build 2013, and I’d like to build on that success and make it a core part of Break. This year we’ll be running it in The Black Box, one of the principal arts and entertainment venues in Belfast.
 
-In short, we'll enjoy an informative afternoon of pre-conference education and entertainment, compered by Shopify's Keir Whitaker. We've secured a fantastic lineup of speakers to share their experience with attendees:
+In short, we’ll enjoy an informative afternoon of pre-conference education and entertainment, compered by Shopify’s Keir Whitaker. We’ve secured a fantastic lineup of speakers to share their experience with attendees:
 
 + Elliot Jay Stocks (Creative Director, [Typekit](https://typekit.com))
 + Verne Ho (Director of Design, [Shopify](http://www.shopify.com))
 + Ryan Rumsey (Experience Design, [Nestlé](http://www.nestleinstitutehealthsciences.com))
 
 
-####Open Studio
+####A Rather Large Tutorial (17.00-18.00)
 
-Belfast is rapidly establishing itself as a key player on a digital world stage. Andy McMillan’s sterling work with Build needs no introduction. The team at [Typecast](http://typecast.com) are taking the wonderful world of web typography to new heights. Cargo’s recently unveiled [Brewbot](http://www.brewbot.io) is rightly winning the praise it deserves (who wouldn’t want to, as Fast Company put it, “Brew beer with an iPhone?”).
-
-Belfast is firmly on the map, right where it deserves to be.
-
-Open Studio opens the doors onto Belfast’s thriving digital sector, sharing best practice and – importantly – continuing to cement connections beyond the city.
+An early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-####A Rather Large Tutorial
+####Typecast Open House (Times TBC)
 
-An evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand. Scheduled in The Belfast School of Art at the Conor Lecture Theatre the talk underpins the conference’s connection to education.
+Belfast is rapidly establishing itself as a key player on a digital world stage. Andy McMillan’s sterling work with Build needs no introduction. The team at [Typecast](http://typecast.com) are taking the wonderful world of web typography to new heights. Cargo’s recently unveiled [Brewbot](http://www.brewbot.io) is rightly winning the praise it deserves (who wouldn’t want to, as Fast Company put it, “Brew beer with an iPhone?”). Belfast is firmly on the map, right where it deserves to be.
+
+We’re delighted to be partnering with the team at Typecast to run a Typecast Open House with drinks and nibbles.
 
 
-####Pre-Party
+####Pre-Party (Times TBC)
 
-After the talk there’s a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York and The John Hewitt.
+We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York and The John Hewitt.
 
 
 ###Thursday
 
-This is the main event. You could feasibly fly in for it and leave right afterwards, but attending the pre- and after-parties is recommended.
-
-I’m still debating numbers. I’ve enjoyed the intimacy of events like Build, where everyone knows everyone; equally, I’ve enjoyed New Adventures’ larger numbers (which can help keep costs down for attendees). The Assembly Buildings can comfortably hold ~1,000, but I believe ~400 is a better number (that is assuming I can sell 400 tickets).
+This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but attending the pre- and after-parties is recommended. The conference will last the full day (09.00-18.00) and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
 
 ####Conference
@@ -113,9 +107,9 @@ Confirmed speakers:
 I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They should ask participants questions and leave them seeking answers.
 
 
-####Afterparty
+####After-Party
 
-Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We've booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
+Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 
 
 ###Friday
@@ -157,8 +151,7 @@ I’d like to involve other sponsors and have ideas around this that I’m curre
 Track Record
 ------------
 
-As an educator working at The Belfast School of Art for over a decade I have been very 
-proactive in bringing internationally respected speakers to Belfast. I believe an open-minded and inclusive design education – which brings in practicing designers – is critical. Past speakers I have brought to Belfast include:
+As an educator working at The Belfast School of Art for over a decade I have been very proactive in bringing internationally respected speakers to Belfast. I believe an open-minded and inclusive design education – which brings in practicing designers – is critical. Past speakers I have brought to Belfast include:
 
 + Adrian Shaughnessy (Unit Editions)
 + Andy Stevens (Graphic Thought Facility)
@@ -173,5 +166,3 @@ proactive in bringing internationally respected speakers to Belfast. I believe a
 I hope this document gives a clear sense of what is in my mind. I’m passionate about this and I’m well aware that this will be a considerable undertaking, but I believe it will be worth it.
 
 Please point questions my way – chris@monographic.org – and I’ll do my best to answer them. Thank you.
-
-

@@ -13,8 +13,8 @@ Break Schedule
   + Unwind
 
 
-Wednesday
----------
+Wednesday, 12 November, 2014
+----------------------------
 
 This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will be followed by an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
@@ -49,8 +49,8 @@ We’re delighted to be partnering with the team at Typecast to run a Typecast O
 We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York and The John Hewitt.
 
 
-Thursday
---------
+Thursday, 13 November, 2014
+---------------------------
 
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but attending the pre- and after-parties is recommended. The conference will last the full day (09.00-18.00) and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
@@ -80,7 +80,7 @@ I’ve opened out the list of speakers so that they’re challenging and interes
 Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 
 
-Friday
-------
+Friday, 14 November, 2014
+-------------------------
 
 I imagine most people would want to head home on the Friday, but – if there were interest – I’d be happy to explore some informal Friday activities for attendees who wanted to see a little of Belfast, perhaps a visit to [Titanic Belfast](http://www.titanicbelfast.com) or simply some informal meetups.

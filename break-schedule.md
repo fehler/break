@@ -1,6 +1,8 @@
 Break Schedule
 ==============
 
+/* This is a work in progress, while I work on the copy for the Break web site. I'll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions. */
+
 + Wednesday
   + An Afternoon With Shopify
   + A Rather Large Tutorial

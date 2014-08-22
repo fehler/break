@@ -1,12 +1,11 @@
 Break Schedule
 ==============
 
-/* This is a work in progress, while I work on the copy for the Break web site. I'll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions. */
+/* This is a work in progress, while I work on the copy for the Break web site. I'll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions (as others will testify, I do follow up one-to-one!). */
 
 + Wednesday
   + An Afternoon With Shopify
   + A Rather Large Tutorial
-  + Typecast Open House
   + Pre-Party
 + Thursday
   + Conference
@@ -20,7 +19,7 @@ Wednesday, 12 November, 2014
 
 This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will be followed by an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
-Wednesday evening will consist of an open house, courtesy of the team at Typecast, followed by an informal pre-party.
+Wednesday evening’s set aside for dinner (recommendations will follow), followed by an informal pre-party.
 
 
 ###An Afternoon With Shopify (13.00-17.30)
@@ -39,16 +38,9 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 An early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-###Typecast Open House (Times TBC)
-
-Belfast is rapidly establishing itself as a key player on a digital world stage. Andy McMillan’s sterling work with Build needs no introduction. The team at [Typecast](http://typecast.com) are taking the wonderful world of web typography to new heights. Cargo’s recently unveiled [Brewbot](http://www.brewbot.io) is rightly winning the praise it deserves (who wouldn’t want to, as Fast Company put it, “Brew beer with an iPhone?”). Belfast is firmly on the map, right where it deserves to be.
-
-We’re delighted to be partnering with the team at Typecast to run a Typecast Open House with drinks and nibbles.
-
-
 ###Pre-Party (Times TBC)
 
-We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York and The John Hewitt.
+We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
 
 
 Thursday, 13 November, 2014

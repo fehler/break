@@ -47,7 +47,7 @@ Closing the Shopify event in the Black Box, Break organiser Christopher Murphy w
 We’ll round out the night with drinks designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
 
 
-Thursday, 13 November, 2014
+Thursday, 13 November, 2014 [*](https://github.com/fehler/break/blob/master/thursday-schedule.md)
 ---------------------------
 
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but we’d love it if you could join us for everything. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.

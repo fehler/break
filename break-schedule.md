@@ -24,6 +24,7 @@ Wednesday evening’s set aside for dinner (recommendations will follow), follow
 
 ###An Afternoon With Shopify (14.00-17.00)
 
+Venue: The Black Box
 Registration: 13.00-14.00  
 Event Begins: 14.00  
 
@@ -54,6 +55,7 @@ This is the main event. You could feasibly fly in for it, first thing in the mor
 
 ###Conference (09.30-18.00)
 
+Venue: The Assembly Buildings  
 Registration: 08.30-09.30  
 Event Begins: 09.30  
 

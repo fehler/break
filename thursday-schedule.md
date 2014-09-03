@@ -7,8 +7,8 @@ Break Schedule: Thursday, 13 November, 2014
 Conference
 ----------
 
-Venue: The Assembly Buildings
-Registration: 08.30-09.30
+Venue: The Assembly Buildings  
+Registration: 08.30-09.30  
 Event Begins: 09.30
 
 08.30 - Registration Opens  

@@ -24,7 +24,7 @@ Wednesday evening’s set aside for dinner (recommendations will follow), follow
 
 ###An Afternoon With Shopify (14.00-17.00)
 
-Venue: The Black Box
+Venue: The Black Box  
 Registration: 13.00-14.00  
 Event Begins: 14.00  
 

@@ -3,6 +3,8 @@ Break Schedule: Thursday, 13 November, 2014
 
 /* This is a work in progress, while I work on the copy for the Break web site. I’ll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions and I’ll do my best to assist. */
 
+We’re aware that you might be travelling on the Thursday and may be arriving at any time. Registration will be available all morning at The Assembly Buildings, make your way in your own time without feeling udue stress.
+
 
 Conference
 ----------
@@ -30,8 +32,5 @@ Event Begins: 09.30
 Afterparty
 ----------
 
-Venue: 21 Social
+Venue: 21 Social  
 Event Begins: 20.30
-
-
-We're aware that you might be travelling on the Thursday and may be arriving at any time. Registration will be available all morning at The Assembly Buildings, make your way in your own time without feeling udue stress.

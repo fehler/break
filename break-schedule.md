@@ -14,7 +14,7 @@ Break Schedule
   + Unwind
 
 
-Wednesday, 12 November, 2014
+Wednesday, 12 November, 2014 [*](https://github.com/fehler/break/blob/master/wednesday-schedule.md)
 ----------------------------
 
 This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will conclude with an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.

@@ -49,13 +49,13 @@ We’ll round out the night with drinks designed to continue the conversation. T
 Thursday, 13 November, 2014
 ---------------------------
 
-Registration: 08.30-09.30  
-Event Begins: 09.30  
-
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but we’d love it if you could join us for everything. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
 
 ###Conference (09.30-18.00)
+
+Registration: 08.30-09.30  
+Event Begins: 09.30  
 
 Our speakers span a wide spectrum of experience. All, in their own way, are teasing at the edges of design, investigating what it might be and what it might become.
 

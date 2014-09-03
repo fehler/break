@@ -72,7 +72,7 @@ Confirmed speakers:
 + Adrian Shaughnessy ([Unit Editions](http://www.uniteditions.com), [Design Observer](http://designobserver.com))
 + Matt Webb ([BERG](http://bergcloud.com), [Little Printer](http://bergcloud.com/littleprinter/))
 
-I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They should ask participants questions and leave them seeking answers.
+I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They will ask participants questions and leave them seeking answers.
 
 
 ###Afterparty (20.30-24.00)

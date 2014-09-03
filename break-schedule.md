@@ -41,7 +41,7 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 Closing the Shopify event in the Black Box, Break organiser Christopher Murphy will give an early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-###Drinks (20.30)
+###Drinks (20.30-Late…)
 
 We’ll round out the night with drinks designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
 
@@ -75,7 +75,7 @@ Confirmed speakers:
 I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They will ask participants questions and leave them seeking answers.
 
 
-###Afterparty (20.30-24.00)
+###Afterparty (20.30-Late…)
 
 Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 

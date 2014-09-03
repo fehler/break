@@ -1,7 +1,7 @@
 Break Schedule
 ==============
 
-/* This is a work in progress, while I work on the copy for the Break web site. I’ll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions and I’ll do my best to assist. */
+/* This is a work in progress, while I work on the copy for the Break web site. I’ll be updating it as times are firmed up, but most times are accurate. We’re aware that attendees may be arriving at any time. Registration will be available on a rolling basis, so please make your way in your own time without feeling udue stress. Contact chris@monographic.org if you have questions and I’ll do my best to assist. */
 
 + Wednesday
   + An Afternoon With Shopify

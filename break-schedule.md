@@ -6,10 +6,10 @@ Break Schedule
 + Wednesday
   + An Afternoon With Shopify
   + A Rather Large Tutorial
-  + Pre-Party
+  + Drinks
 + Thursday
   + Conference
-  + After-Party
+  + Afterparty
 + Friday
   + Unwind
 
@@ -75,7 +75,7 @@ Confirmed speakers:
 I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They should ask participants questions and leave them seeking answers.
 
 
-###After-Party (20.30-24.00)
+###Afterparty (20.30-24.00)
 
 Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 

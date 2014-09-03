@@ -1,13 +1,11 @@
-Break Schedule, Wednesday
-=========================
+Break Schedule: Wednesday, 12 November, 2014
+============================================
 
 /* This is a work in progress, while I work on the copy for the Break web site. I’ll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions and I’ll do my best to assist. */
 
 
-Wednesday, 12 November, 2014
-----------------------------
-
-###An Afternoon With Shopify
+An Afternoon With Shopify
+-------------------------
 
 Venue: The Black Box
 Registration: 13.00-14.00

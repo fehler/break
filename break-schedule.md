@@ -1,7 +1,7 @@
 Break Schedule
 ==============
 
-/* This is a work in progress, while I work on the copy for the Break web site. I'll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions and I'll do my best to assist. */
+/* This is a work in progress, while I work on the copy for the Break web site. I’ll be updating it as times are firmed up, but most times are accurate. Contact chris@monographic.org if you have questions and I’ll do my best to assist. */
 
 + Wednesday
   + An Afternoon With Shopify
@@ -77,4 +77,4 @@ Every conference needs an afterparty and Break is no different. I don’t think 
 Friday, 14 November, 2014
 -------------------------
 
-I imagine most people will want to head home on the Friday, but we're in the process of organising some informal meetups, including a photowalk exploring the city. We'll publish details as the date approaches.
+I imagine most people will want to head home on the Friday, but we’re in the process of organising some informal meetups, including a photowalk exploring the city. We’ll publish details as the date approaches.

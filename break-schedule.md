@@ -24,8 +24,8 @@ Wednesday evening’s set aside for dinner (recommendations will follow), follow
 
 ###An Afternoon With Shopify (14.00-17.30)
 
-Registration: 13.00-14.00
-Event Begins: 14.00
+Registration: 13.00-14.00  
+Event Begins: 14.00  
 
 Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once again run ‘An Afternoon with Shopify’ in Belfast. This was a big success when we ran it at Build 2013, and I’d like to build on that success and make it a core part of Break. This year we’ll be running it in The Black Box, one of the principal arts and entertainment venues in Belfast.
 
@@ -49,8 +49,8 @@ We’ll round out the night with a pre-party designed to continue the conversati
 Thursday, 13 November, 2014
 ---------------------------
 
-Registration: 08.30-09.30
-Event Begins: 09.30
+Registration: 08.30-09.30  
+Event Begins: 09.30  
 
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but attending the pre- and after-parties is recommended. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 

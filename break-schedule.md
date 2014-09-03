@@ -22,7 +22,7 @@ This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, f
 Wednesday evening’s set aside for dinner (recommendations will follow), followed by an informal pre-party.
 
 
-###An Afternoon With Shopify (14.00-17.30)
+###An Afternoon With Shopify (14.00-17.00)
 
 Registration: 13.00-14.00  
 Event Begins: 14.00  
@@ -36,14 +36,14 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 + Ryan Rumsey (Experience Design, [Nestlé](http://www.nestleinstitutehealthsciences.com))
 
 
-###A Rather Large Tutorial (17.30-18.30)
+###A Rather Large Tutorial (17.00-18.00)
 
-An early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
+Closing the Shopify event in the Black Box, we’ll have an early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-###Pre-Party (Times TBC)
+###Drinks (20.30)
 
-We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
+We’ll round out the night with drinks designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
 
 
 Thursday, 13 November, 2014

@@ -52,7 +52,7 @@ Thursday, 13 November, 2014
 Registration: 08.30-09.30  
 Event Begins: 09.30  
 
-This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but attending the pre- and after-parties is recommended. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
+This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but we’d love it if you could join us for everything. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
 
 ###Conference (09.30-18.00)

@@ -38,7 +38,7 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 
 ###A Rather Large Tutorial (17.00-18.00)
 
-Closing the Shopify event in the Black Box, we’ll have an early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
+Closing the Shopify event in the Black Box, Break organiser Christopher Murphy will give an early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
 ###Drinks (20.30)

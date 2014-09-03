@@ -17,7 +17,7 @@ Break Schedule
 Wednesday, 12 November, 2014
 ----------------------------
 
-This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will be followed by an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
+This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will conclude with an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
 Wednesday evening’s set aside for dinner (recommendations will follow), followed by an informal pre-party.
 

@@ -6,10 +6,6 @@
   + From Bits to Atoms (Product Design) · Jonny Campbell
   + Title TBC (Words) · Sarah Richards
   + Where Strategy Meets Design · Richard Weston
-<!-- 
-  + Patterns (Education) · Josh Long
-  + Code (Play?) · Alice Liddell
- -->
 + The Edges of Design <!-- 24 -->
   + Futura (1927) · Paul Renner
   + Barcelona Chair (1929) · Ludwig Mies van der Rohe

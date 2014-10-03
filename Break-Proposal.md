@@ -19,7 +19,7 @@ Though I very much enjoy week long festivals like [Build](http://buildconf.com) 
 
 With this in mind, I’m focusing around a core conference day, with optional unconference activities the preceding day. This keeps the costs down, ensuring the event is affordable. I’d also like to price student tickets affordably. As an educator, I think it’s important to put professionals and students together, I’d like to support that.
 
-My goal is to pitch tickets for professionals at £120 (~120 tickets) with student tickets at £60 (~120 tickets). I’m not running this to make a profit. The bottom line, for me, is about community building and helping to keep Belfast on the map internationally, as – I believe – it rightly deserves to be.
+My goal is to pitch tickets for professionals at £120 with student tickets at £60. I’m not running this to make a profit. The bottom line, for me, is about community building and helping to keep Belfast on the map internationally, as – I believe – it rightly deserves to be.
 
 
 

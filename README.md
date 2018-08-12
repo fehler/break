@@ -23,6 +23,6 @@ It’s too late to run Break in 2018, but I’m holding out that she might allow
 
 <!-- Links -->
 
-[01]: http://breakconf.org “Break: A Conference That Questions the Edges of Design”
-[02]: https://twitter.com/fehler “Say, “Hello!” via Twitter.”
-[03]: https://pixelpioneers.co/events/belfast-2018 “Pixel Pioneers, Belfast”
+[01]: http://breakconf.org "Break: A Conference That Questions the Edges of Design"
+[02]: https://twitter.com/fehler "Say, “Hello!” via Twitter."
+[03]: https://pixelpioneers.co/events/belfast-2018 "Pixel Pioneers, Belfast"

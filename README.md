@@ -1,7 +1,7 @@
 Break
 =====
 
-In the spirit of transparency I’m opening up my planning process for [Break][01](). Certain details – speakers fees and sponsorship agreements are confidential – however, I hope to keep as much as possible in the open.
+In the spirit of transparency I’m opening up my planning process for [Break][01]. Certain details – speakers fees and sponsorship agreements are confidential – however, I hope to keep as much as possible in the open.
 
 Once the event is over, I’d like to explore publishing as much detail as I can about the work that goes into running a conference. It’s been an eye-opening experience and it’s certainly not the surefire path to riches that many think it is!
 
@@ -25,4 +25,4 @@ It’s too late to run Break in 2018, but I’m holding out that she might allow
 
 [01]: http://breakconf.org "Break: A Conference That Questions the Edges of Design"
 [02]: https://twitter.com/fehler "Say, “Hello!” via Twitter."
-[03]: https://pixelpioneers.co/events/belfast-2018 "Pixel Pioneers, Belfast"
+[03]: https://pixelpioneers.co/events/belfast-2018 "Pixel Pioneers, Belfast (2018)"

@@ -1,8 +1,10 @@
 Break
 =====
 
-###A Conference That Questions the Edges of Design
-####12-14 November, 2014
+A Conference That Questions the Edges of Design
+-----------------------------------------------
+
+### 12-14 November, 2014
 
 <small>Christopher Murphy · [@fehler](https://twitter.com/fehler)</small>
 
@@ -47,14 +49,14 @@ Schedule
   + Unwind
 
 
-###Wednesday
+### Wednesday
 
 This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, following the success of my collaboration with Shopify at Build in 2013, will follow a similar format. The Shopify event will be followed by an early evening talk, titled ‘A Rather Large Tutorial’. The evening talk is designed to get you asking questions so that your brain is fully engaged for the main conference day.
 
 Wednesday evening will consist of an open house, courtesy of the team at Typecast, followed by an informal pre-party.
 
 
-####An Afternoon With Shopify (13.00-17.00)
+#### An Afternoon With Shopify (13.00-17.00)
 
 Working with Keir Whitaker, of [Shopify](http://www.shopify.com), we’ll once again run ‘An Afternoon with Shopify’ in Belfast. This was a big success when we ran it at Build 2013, and I’d like to build on that success and make it a core part of Break. This year we’ll be running it in The Black Box, one of the principal arts and entertainment venues in Belfast.
 
@@ -65,29 +67,29 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 + Ryan Rumsey (Experience Design, [Nestlé](http://www.nestleinstitutehealthsciences.com))
 
 
-####A Rather Large Tutorial (17.00-18.00)
+#### A Rather Large Tutorial (17.00-18.00)
 
 An early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-####Typecast Open House (Times TBC)
+#### Typecast Open House (Times TBC)
 
 Belfast is rapidly establishing itself as a key player on a digital world stage. Andy McMillan’s sterling work with Build needs no introduction. The team at [Typecast](http://typecast.com) are taking the wonderful world of web typography to new heights. Cargo’s recently unveiled [Brewbot](http://www.brewbot.io) is rightly winning the praise it deserves (who wouldn’t want to, as Fast Company put it, “Brew beer with an iPhone?”). Belfast is firmly on the map, right where it deserves to be.
 
 We’re delighted to be partnering with the team at Typecast to run a Typecast Open House with drinks and nibbles.
 
 
-####Pre-Party (Times TBC)
+#### Pre-Party (Times TBC)
 
 We’ll round out the night with a pre-party designed to continue the conversation. This is informal and will probably congregate around The Duke of York and The John Hewitt.
 
 
-###Thursday
+### Thursday
 
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but attending the pre- and after-parties is recommended. The conference will last the full day (09.00-18.00) and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
 
-####Conference
+#### Conference
 
 Our speakers span a wide spectrum of experience. All, in their own way, are teasing at the edges of design, investigating what it might be and what it might become.
 
@@ -107,12 +109,12 @@ Confirmed speakers:
 I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They should ask participants questions and leave them seeking answers.
 
 
-####After-Party
+#### After-Party
 
 Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 
 
-###Friday
+### Friday
 
 I imagine most people would want to head home on the Friday, but – if there were interest – I’d be happy to explore some informal Friday activities for attendees who wanted to see a little of Belfast, perhaps a visit to [Titanic Belfast](http://www.titanicbelfast.com) or simply some informal meetups.
 
@@ -124,7 +126,7 @@ Added Value
 I’d like to give the attendees something special, some schwag, of course, but also a publication of some description. I envisage two, digital, books (ePub, PDF, mobi): one that explores design in a  wider context, called ‘At the Edges of Design’; a second that’s a properly researched and well-written Belfast Gazetteer, a guide for attendees that serves both the event and future visits to Belfast.
 
 
-###Book(s)
+### Book(s)
 
 I’d like there to be a book of some description, something substantive, with curated content contributed by guest writers (Adrian Shaughnessy, Richard Weston, Jonny Campbell and others…) and edited by Owen Gregory, who edits for Five Simple Steps and 24 Ways.
 
@@ -133,7 +135,7 @@ This could be a sponsored publication, something one off, that gives a different
 I’d be keen to find a sponsor who would be interested in backing a well-written publication that was properly curated with contributions by respected writers and that was properly edited and beautifully designed. I have a lot of ideas around what this might be, it would be wonderful to push the envelope on this.
 
 
-###Lanyard
+### Lanyard
 
 What if, instead of a lanyard, attendees received a bespoke – every one unique – totem? Something lasercut at Belfast’s FabLab? Something that was treasurable, to keep? This might be impractical, but it would be nice to explore what a lanyard – a means of identifying yourself as a part of the conference – could become?
 

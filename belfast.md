@@ -1,7 +1,7 @@
 Belfast
 =======
 
-Belfast is awesome. We need a little more copy here. We've gathered some recommendations for you below, offering some suggestions on where to eat, where to drink and - once you're ready for a rest - where to sleep.
+Belfast is awesome. We've gathered some recommendations for you below, offering some suggestions on where to eat, where to drink and - once you're ready for a rest - where to sleep.
 
 <!-- Organise this in a three column grid? 3x4 (Eat); 3x4 (Drink); 3x2 (Sleep) -->
 
@@ -133,11 +133,15 @@ BT1 2LD
 Drink
 -----
 
+To follow.
+
 
 
 
 
 Sleep
 -----
+
+To follow.
 
 

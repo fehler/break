@@ -46,24 +46,25 @@ Adrian Shaughnessy
 Adrian Shaughnessy is an internationally respected design critic. In addition to his writing for some of the world’s leading design journals - Eye, Creative Review, [Design Observer](http://designobserver.com/author.html?author=817)… – he is the co-founder of [Unit Editions](http://uniteditions.com) a publisher of high-quality, affordable books on graphic design and visual culture, which has, in its short existence, deservedly captured a sizable share of the design publishing market.
 
 
-Matt Webb
+Matt Webb /* Cancelled, sadly. */
 ---------
+
 Matt Webb is CEO at [Berg](http://bergcloud.com), the design studio turned tech startup he co-founded in 2005. An internationally respected speaker on the role of design and technology in culture, Webb has been instrumental in exploring the growing importance of ‘The Internet of Things’. Webb’s work, in particular [Little Printer](http://littleprinter.com), places design at the heart of a growing connected digital culture.
 
 
 Fringe Speakers
 ---------------
 
-###Elliot Jay Stocks (Creative Director, Typekit)
+### Elliot Jay Stocks (Creative Director, Typekit)
 
 Elliot Jay Stocks is the Creative Director of Adobe Typekit. A designer, speaker and author, he is the publisher of 8 Faces, and now, [Lagom](http://blog.readlagom.com), a lifestyle magazine that celebrates innovation and creativity. In his spare time – when, that is, he has some – he is an electronic musician.
 
 
-###Verne Ho (Director of Design, Shopify)
+### Verne Ho (Director of Design, Shopify)
 
 Verne Ho is Director of Design at Shopify. Formerly Co-Founder and Creative Director at Jet Cooper (a product-fcoused company acquired by Shopify in 2013), Verne writes about design culture at [Medium](https://medium.com/@verneho).
 
 
-###Ryan Rumsey (Experience Design, Nestlé)
+### Ryan Rumsey (Experience Design, Nestlé)
 
 Ryan Rumsey is awesome. That is all.

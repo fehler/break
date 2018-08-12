@@ -22,7 +22,7 @@ This is optional, pre-conference. ‘An Afternoon With Shopify’ is free and, f
 Wednesday evening’s set aside for dinner (recommendations will follow), followed by informal drinks.
 
 
-###An Afternoon With Shopify (14.00-17.00)
+### An Afternoon With Shopify (14.00-17.00)
 
 Venue: The Black Box  
 Registration: 13.00-14.00  
@@ -37,12 +37,12 @@ In short, we’ll enjoy an informative afternoon of pre-conference education and
 + Ryan Rumsey (Experience Design, [Nestlé](http://www.nestleinstitutehealthsciences.com))
 
 
-###A Rather Large Tutorial (17.00-18.00)
+### A Rather Large Tutorial (17.00-18.00)
 
 Closing the Shopify event in the Black Box, Break organiser Christopher Murphy will give an early evening talk on the theme: ‘What happens when we ‘break’ design?’ This talk asks questions in advance of the following day’s speakers. It seeks to prime the brain beforehand.
 
 
-###Drinks (20.30-Late…)
+### Drinks (20.30-Late…)
 
 We’ll round out the night with drinks designed to continue the conversation. This is informal and will probably congregate around The Duke of York, The John Hewitt and The Dirty Onion.
 
@@ -53,7 +53,7 @@ Thursday, 13 November, 2014 [*](https://github.com/fehler/break/blob/master/thur
 This is the main event. You could feasibly fly in for it, first thing in the morning, and leave right afterwards, but we’d love it if you could join us for everything. The conference will last the full day and will be followed by a short break for attendees to get dinner. We’ll round out the day with an after-party, generously sponsored by MailChimp.
 
 
-###Conference (09.30-18.00)
+### Conference (09.30-18.00)
 
 Venue: The Assembly Buildings  
 Registration: 08.30-09.30  
@@ -77,7 +77,7 @@ Confirmed speakers:
 I’ve opened out the list of speakers so that they’re challenging and interesting. I think they are all looking beyond the silos of specialism. They will ask participants questions and leave them seeking answers.
 
 
-###Afterparty (20.30-Late…)
+### Afterparty (20.30-Late…)
 
 Every conference needs an afterparty and Break is no different. I don’t think an afterparty needs much explanation really: alcoholic beverages, non-alcoholic beverages and lots of conversation. We’ve booked [21 Social](http://www.21social.co.uk) for our afterparty. I’m delighted that my friends at [MailChimp](http://mailchimp.com/) are very kindly sponsoring this. I’ve always respected MailChimp’s ethos and I’m very happy to have the on board as sponsors.
 
